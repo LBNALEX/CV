@@ -1,0 +1,74 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+	font-size: 1rem;
+	line-height: 2;
+    text-align:justify;
+
+}
+
+.perfil{
+    width: 150px;
+    height: 200px;
+    margin-left: 170px;
+    margin-top: 50px;
+    border-radius: 60%;
+}
+
+h2{
+    text-transform: uppercase;
+    color:deepskyblue;
+}
+h4{
+    text-transform: uppercase;
+    color:deepskyblue;
+}
+h5{
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+}
+
+p{
+   font-size: 18px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.principal{
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.principal h1{
+    font-size: 40px;
+    color:darkblue;
+}
+.izquierda{
+    background-color: darkblue;
+    color: white;
+    text-align: justify;
+}
+
+.empresafecha{
+    color:darkgray;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.sinmargin{
+    margin:0;
+}
+
+.listas{
+    margin-left: 100px;
+    margin-right: 30px;
+}
+.listasorden{
+    margin-left: 100px;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+
+
